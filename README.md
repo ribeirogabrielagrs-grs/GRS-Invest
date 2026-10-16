@@ -17,6 +17,7 @@ Célula D15 - rendimento_carteira: taxa mensal de rendimento da carteira;
 Célula D16 - sugestao_rendimento: sugestão de investimento equivalente a 30% do salário;
 Célula D19 - aporte: valor estimado investido mensalmente;
 Célula D20 - qtd_anos: prazo do investimento em anos;
+Célula D21 - taxa_mensal: taxa de rendimento mensal;
 Célula D22 - patrimonio: patrimônio acumulado estimado.
 
 As mudanças em relação a ferramenta do Expert estão relacionadas a personalização dos dados e configurações visuais.
